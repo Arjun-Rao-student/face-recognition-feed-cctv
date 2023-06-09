@@ -30,7 +30,7 @@ opencv-python
 
 First we will import the relevant libraries
 
-[![sample](https://user-images.githubusercontent.com/59176699/244606524-db96b662-830d-41ce-87a0-024c4bbccd9f.png)
+![sample](https://user-images.githubusercontent.com/59176699/244606524-db96b662-830d-41ce-87a0-024c4bbccd9f.png)
 
 import face_recognition
 
