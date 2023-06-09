@@ -30,7 +30,7 @@ opencv-python
 
 First we will import the relevant libraries
 
-/../main/assets/images/electrocat.png
+![sample](https://github.com/Arjun225-star/faceRecognition_/assets/59176699/b229b805-2b1e-4f87-9d52-0de72c655cfe
 
 import face_recognition
 
