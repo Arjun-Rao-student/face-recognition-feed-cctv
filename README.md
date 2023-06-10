@@ -74,6 +74,7 @@ from PIL import ImageGrab
 ===>Find Matches
 
 ===>Attendance
+
 ///////////// ## run the cc live video on your monitor after code run (done bro! proceed) ///////////
 
 ///////////// capture and recognition note it ///////////////////////////////////////////////////////
