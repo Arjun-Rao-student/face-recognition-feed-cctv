@@ -67,7 +67,7 @@ while True:
             cv2.putText(img, name, (x1 + 6, y2 - 6), cv2.FONT_HERSHEY_DUPLEX, 1.0, (255, 255, 255), 1)
             markAttendance(name)
 
-    cv2.imshow('Webcam',img)
+    cv2.imshow('CC LIVE VIDEO',img)
     cv2.waitKey(1)
 
 
