@@ -61,6 +61,7 @@ import face_recognition
 
 from datetime import datetime
 
+from PIL import ImageGrab
 
 ===>Importing Images
 
@@ -68,8 +69,11 @@ from datetime import datetime
 
 ===>while loop
 
-===>Webcam Encodings
+===>cc Encodings
 
 ===>Find Matches
 
 ===>Attendance
+///////////// ## run the cc live video on your monitor after code run (done bro! proceed) ///////////
+
+///////////// capture and recognition note it ///////////////////////////////////////////////////////
